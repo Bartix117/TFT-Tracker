@@ -25,12 +25,5 @@ A modern, asynchronous desktop application built with Python that tracks Teamfig
 * **Requests** - For handling HTTP GET requests to the Riot Games API.
 * **Threading** - For asynchronous API calls and background validation loops to keep the UI responsive.
 
-## 🚀 Installation & Setup
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME/tft-tracker.git](https://github.com/YOUR_USERNAME/tft-tracker.git)
-   cd tft-tracker
-
 
 TFT-Tracker isn't endorsed by Riot Games and doesn't reflect the views or opinions of Riot Games or anyone officially involved in producing or managing Riot Games properties. Riot Games, and all associated properties are trademarks or registered trademarks of Riot Games, Inc.
